@@ -8,21 +8,21 @@
 
 //Variables globales de uso en todo el sistema
 //Definicion de servidor del aplicativo
-define('_SERVER_', 'http://localhost/eggPHP/');
+define('_SERVER_', 'http://localhost/mediathon/');
 //Definicion de variables para conexion de base de datos
 define('_SERVER_DB_', 'localhost');
-define('_DB_', 'eggphpbd');
+define('_DB_', 'mediathonbd');
 define('_USER_DB_', 'root');
 define('_PASSWORD_DB_', '');
 //Definicion de clave de desencriptacion
 define('_FULL_KEY_','ñlasopweir');
 //Titulo
-define('_TITLE_', 'EggPHP');
+define('_TITLE_', 'DontFakeTurbo3000');
 //Rutas de Archivos
 define('_STYLES_ALL_', 'styles/');
 define('_STYLES_ADMIN_', 'styles/admin/');
 define('_STYLES_LOGIN_', 'styles/login/');
-define('_ICON_', 'styles/eggPHP.png');
+define('_ICON_', 'styles/news.png');
 define('_JS_','js/');
 define('_VIEW_PATH_', 'app/view/');
 //Version

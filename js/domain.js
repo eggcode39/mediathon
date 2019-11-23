@@ -1,4 +1,4 @@
-var urlweb = "http://localhost/eggPHP/";
+var urlweb = "http://localhost/mediathon/";
 //var urlweb = "https://www.guabba.com/saneamiento/";
 function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");

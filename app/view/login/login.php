@@ -10,7 +10,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>EggPHP - Login</title>
+  <title><?= _TITLE_;?> - Login</title>
 
   <!-- Custom fonts for this template-->
   <link href="<?=_SERVER_ . _STYLES_ADMIN_;?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

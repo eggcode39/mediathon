@@ -9,9 +9,9 @@
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?= _SERVER_;?>">
         <div class="sidebar-brand-icon rotate-n-15">
-          <i class="fa fa-folder"></i>
+          <i class="fa fa-newspaper-o"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">EggPHP <sup><?= _VERSION_;?></sup></div>
+        <div class="sidebar-brand-text mx-3">DNTFK T300 <sup><?= _VERSION_;?></sup></div>
       </a>
       <!-- Divider -->
       <hr class="sidebar-divider my-0">
