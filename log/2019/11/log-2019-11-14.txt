@@ -1,0 +1,2 @@
+2019-11-14 10:45:37[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\eggPHP\core\session.php: 60[MESSAGGE]setcookie() expects parameter 3 to be integer, float given
+

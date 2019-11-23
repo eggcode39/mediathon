@@ -1,0 +1,43 @@
+2019-11-11 09:32:37[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-11 09:32:37[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-11 10:06:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 108[MESSAGGE]Undefined index: role
+
+2019-11-11 11:50:16[UTC -5] [ip] ::1 [location] Menu|listp [text] Call to undefined method MenuController::listp()
+2019-11-11 16:48:44[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 199[MESSAGGE]Undefined index: role
+
+2019-11-11 16:49:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 365[MESSAGGE]Undefined index: user_nickname
+
+2019-11-11 16:49:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 365[MESSAGGE]Use of undefined constant _PASS_ - assumed '_PASS_'
+
+2019-11-11 16:49:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menu.php: 39[MESSAGGE]Trying to get property of non-object
+
+2019-11-11 16:50:27[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 372[MESSAGGE]Undefined index: id_optionm
+
+2019-11-11 16:50:27[UTC -5] [ip] ::1 [location] Menu|savePermit [text] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_optionm' cannot be null
+2019-11-11 16:50:29[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 372[MESSAGGE]Undefined index: id_optionm
+
+2019-11-11 16:50:29[UTC -5] [ip] ::1 [location] Menu|savePermit [text] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_optionm' cannot be null
+2019-11-11 16:55:38[UTC -5] [ip] ::1 [location] Menu|list_all [text] ACCESO A METODO NO EXISTENTE
+2019-11-11 16:55:47[UTC -5] [ip] ::1 [location] Menu|list_all [text] ACCESO A METODO NO EXISTENTE
+2019-11-11 17:06:30[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\RoleController.php: 28[MESSAGGE]Undefined index: rU
+
+2019-11-11 17:14:55[UTC -5] [ip] ::1 [location] Role|ver_roles [text] ACCESO A METODO NO EXISTENTE
+2019-11-11 18:30:57[UTC -5] [ip] ::1 [location] RoleController|options [text] Call to undefined method Role::SearchRelationship()
+2019-11-11 18:31:40[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menu.php: 156[MESSAGGE]Trying to get property of non-object
+
+2019-11-11 18:35:16[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\RoleController.php: 140[MESSAGGE]Undefined index: user_nickname
+
+2019-11-11 18:35:16[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\RoleController.php: 140[MESSAGGE]Use of undefined constant _PASS_ - assumed '_PASS_'
+
+2019-11-11 18:35:16[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menu.php: 39[MESSAGGE]Trying to get property of non-object
+
+2019-11-11 18:36:34[UTC -5] [ip] ::1 [location] RoleController|delete [text] ID Sin Declarar
+2019-11-11 18:36:47[UTC -5] [ip] ::1 [location] RoleController|delete [text] ID Sin Declarar
+2019-11-11 18:36:50[UTC -5] [ip] ::1 [location] RoleController|delete [text] ID Sin Declarar
+2019-11-11 18:38:08[UTC -5] [ip] ::1 [location] RoleController|delete [text] ID Sin Declarar
+2019-11-11 18:38:21[UTC -5] [ip] ::1 [location] RoleController|delete [text] ID Sin Declarar
+2019-11-11 18:38:23[UTC -5] [ip] ::1 [location] RoleController|delete [text] ID Sin Declarar
+2019-11-11 18:41:37[UTC -5] [ip] ::1 [location] RoleController|delete [text] ID Sin Declarar
+2019-11-11 18:42:24[UTC -5] [ip] ::1 [location] Role|delete [text] SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`eggphpbd`.`rolemenu`, CONSTRAINT `rolemenu_ibfk_1` FOREIGN KEY (`id_role`) REFERENCES `role` (`id_role`))

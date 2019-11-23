@@ -1,0 +1,42 @@
+2019-08-15 11:05:01[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Compilation failed: range out of order in character class at offset 4
+
+2019-08-15 11:05:56[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Compilation failed: range out of order in character class at offset 4
+
+2019-08-15 11:06:15[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Compilation failed: range out of order in character class at offset 4
+
+2019-08-15 11:06:32[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Compilation failed: range out of order in character class at offset 4
+
+2019-08-15 11:10:11[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14
+
+2019-08-15 11:10:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 13
+
+2019-08-15 11:11:02[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Compilation failed: range out of order in character class at offset 4
+
+2019-08-15 11:13:30[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Delimiter must not be alphanumeric or backslash
+
+2019-08-15 11:13:51[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Compilation failed: range out of order in character class at offset 4
+
+2019-08-15 11:47:01[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): No ending delimiter '^' found
+
+2019-08-15 11:47:47[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): No ending delimiter '^' found
+
+2019-08-15 11:50:20[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\auth\app\models\Validate.php: 87[MESSAGGE]preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14
+
+2019-08-15 20:35:00[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\models\Validate.php: 42[MESSAGGE]Trying to get property of non-object
+
+2019-08-15 20:35:07[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\models\Validate.php: 42[MESSAGGE]Trying to get property of non-object
+
+2019-08-15 20:35:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\models\Validate.php: 42[MESSAGGE]Trying to get property of non-object
+
+2019-08-15 22:31:48[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\UserController.php: 302[MESSAGGE]Undefined variable: result
+
+2019-08-15 22:31:48[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\UserController.php: 305[MESSAGGE]Undefined variable: result
+
+2019-08-15 22:33:25[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\UserController.php: 302[MESSAGGE]Undefined variable: result
+
+2019-08-15 22:33:25[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\UserController.php: 305[MESSAGGE]Undefined variable: result
+
+2019-08-15 23:00:30[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\UserController.php: 344[MESSAGGE]Undefined variable: model
+
+2019-08-15 23:01:00[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\UserController.php: 344[MESSAGGE]Undefined variable: model
+

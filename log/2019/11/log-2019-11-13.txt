@@ -1,0 +1,56 @@
+2019-11-13 00:08:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\EditController.php: 68[MESSAGGE]Undefined index: role
+
+2019-11-13 00:08:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\EditController.php: 68[MESSAGGE]Use of undefined constant _PASS_ - assumed '_PASS_'
+
+2019-11-13 00:08:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\EditController.php: 70[MESSAGGE]Undefined index: id_user
+
+2019-11-13 00:08:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\EditController.php: 70[MESSAGGE]Use of undefined constant _PASS_ - assumed '_PASS_'
+
+2019-11-13 00:08:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\EditController.php: 71[MESSAGGE]Undefined index: id_user
+
+2019-11-13 00:08:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\EditController.php: 71[MESSAGGE]Use of undefined constant _PASS_ - assumed '_PASS_'
+
+2019-11-13 00:08:42[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\EditController.php: 68[MESSAGGE]Undefined index: role
+
+2019-11-13 00:08:42[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\EditController.php: 70[MESSAGGE]Undefined index: id_user
+
+2019-11-13 00:08:42[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\EditController.php: 71[MESSAGGE]Undefined index: id_user
+
+2019-11-13 00:09:19[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 09:05:34[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 12:49:40[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 12:52:53[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 12:55:15[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 15:17:11[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 15:21:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 16:16:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 16:17:26[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 16:20:22[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 19:33:27[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 79[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 19:33:27[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-13 21:00:31[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\core\session.php: 138[MESSAGGE]Undefined property: stdClass::$user_password
+
+2019-11-13 21:00:31[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\core\session.php: 138[MESSAGGE]Undefined property: stdClass::$user_created_at
+
+2019-11-13 21:02:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\core\session.php: 128[MESSAGGE]Undefined property: stdClass::$user_password
+
+2019-11-13 21:02:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\core\session.php: 128[MESSAGGE]Undefined property: stdClass::$user_created_at
+
+2019-11-13 21:03:33[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\core\session.php: 89[MESSAGGE]Undefined variable: crypt
+
+2019-11-13 21:03:40[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\core\session.php: 89[MESSAGGE]Undefined variable: crypt
+
+2019-11-13 21:03:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\core\session.php: 89[MESSAGGE]Undefined variable: crypt
+

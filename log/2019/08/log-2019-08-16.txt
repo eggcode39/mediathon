@@ -1,0 +1,14 @@
+2019-08-16 13:01:36[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\UserController.php: 370[MESSAGGE]Undefined variable: result
+
+2019-08-16 13:01:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\UserController.php: 373[MESSAGGE]Undefined variable: result
+
+2019-08-16 23:49:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\LoginController.php: 33[MESSAGGE]Undefined index: id_user
+
+2019-08-16 23:50:27[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\LoginController.php: 44[MESSAGGE]Undefined index: usuario
+
+2019-08-16 23:50:29[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\LoginController.php: 45[MESSAGGE]Undefined index: contrasenha
+
+2019-08-16 23:51:57[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\LoginController.php: 78[MESSAGGE]Undefined variable: result
+
+2019-08-16 23:52:09[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\LoginController.php: 81[MESSAGGE]Undefined variable: result
+

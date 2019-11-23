@@ -1,0 +1,109 @@
+2019-11-12 09:42:18[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menu.php: 156[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 11:20:25[UTC -5] [ip] ::1 [location] Menu|list [text] SIN PERMISOS SUFICIENTES
+2019-11-12 11:20:35[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-12 11:20:35[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-12 19:13:19[UTC -5] [ip] ::1 [location] Logout|singout [text] SIN PERMISOS SUFICIENTES
+2019-11-12 19:58:26[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-12 19:58:26[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-12 21:53:17[UTC -5] [ip] ::1 [location] Userg|addu [text] Class 'Validate' not found
+2019-11-12 23:27:18[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-12 23:28:01[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-12 23:40:52[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:41:01[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-12 23:41:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:41:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:41:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 2 IN C:\xampp\htdocs\eggPHP\app\models\User.php: 224[MESSAGGE]session_destroy(): Session object destruction failed
+
+2019-11-12 23:41:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menui.php: 64[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:41:17[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:41:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:41:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:41:46[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menui.php: 64[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:41:46[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:41:51[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:41:51[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:41:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:41:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:41:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:41:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:41:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:41:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:41:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:41:59[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:42:05[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menui.php: 64[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:42:05[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:42:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:42:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:42:35[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menui.php: 64[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:42:35[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:43:09[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:43:21[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:43:23[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menui.php: 64[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:43:23[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:44:09[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:44:09[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:45:15[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menui.php: 64[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:44:51[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:46:23[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menui.php: 64[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:45:54[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:47:11[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menui.php: 64[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:46:50[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:48:04[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menui.php: 64[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:48:04[UTC -5] [ip] ::1 [location] Admin|index [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:48:09[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:48:09[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:48:10[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Rolei.php: 45[MESSAGGE]Trying to get property of non-object
+
+2019-11-12 23:48:10[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 141[MESSAGGE]Undefined variable: errores
+
+2019-11-12 23:48:57[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-12 23:49:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\User.php: 214[MESSAGGE]A session had already been started - ignoring session_start()
+
+2019-11-12 23:50:09[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:50:26[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-12 23:50:30[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\User.php: 214[MESSAGGE]A session had already been started - ignoring session_start()
+
+2019-11-12 23:50:31[UTC -5] [ip] ::1 [location] Edit|changeuser [text] SIN PERMISOS SUFICIENTES
+2019-11-12 23:50:39[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+

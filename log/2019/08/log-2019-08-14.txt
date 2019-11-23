@@ -1,0 +1,2 @@
+2019-08-14 12:09:43[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\UserController.php: 123[MESSAGGE]Undefined variable: result
+

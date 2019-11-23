@@ -1,0 +1,4 @@
+2019-08-17 00:13:47[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\LoginController.php: 60[MESSAGGE]Undefined property: stdClass::$person_number_genre
+
+2019-08-17 00:15:45[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\controllers\LoginController.php: 60[MESSAGGE]Undefined property: stdClass::$person_number_genre
+

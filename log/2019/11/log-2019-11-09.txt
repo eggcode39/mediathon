@@ -1,0 +1,131 @@
+2019-11-09 00:21:31[UTC -5] [ip] ::1 [location] Login|index [text] Class 'Clean' not found
+2019-11-09 00:24:22[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 00:24:22[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 00:25:45[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 00:25:47[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 00:27:09[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 00:27:09[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 00:29:46[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 00:29:46[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 00:29:46[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\index.php: 50[MESSAGGE]A session had already been started - ignoring session_start()
+
+2019-11-09 00:30:10[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\index.php: 50[MESSAGGE]A session had already been started - ignoring session_start()
+
+2019-11-09 00:30:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 00:30:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 00:30:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\index.php: 50[MESSAGGE]A session had already been started - ignoring session_start()
+
+2019-11-09 00:30:42[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 00:30:42[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 00:32:07[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 00:32:08[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 00:32:56[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 00:32:56[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 00:32:56[UTC -5] [ip] ::1 [location] Admin|index [text] Class 'Validate' not found
+2019-11-09 01:11:58[UTC -5] [ip] ::1 [location] AdminController|index [text] Call to undefined method AdminController::decrypt()
+2019-11-09 01:12:00[UTC -5] [ip] ::1 [location] AdminController|index [text] Call to undefined method AdminController::decrypt()
+2019-11-09 01:12:03[UTC -5] [ip] ::1 [location] AdminController|index [text] Call to undefined method AdminController::decrypt()
+2019-11-09 01:12:05[UTC -5] [ip] ::1 [location] AdminController|index [text] Call to undefined method AdminController::decrypt()
+2019-11-09 02:00:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:01:23[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:02:22[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:02:45[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:03:35[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:03:57[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:04:13[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:13:00[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:15:12[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:15:14[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:15:16[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:15:32[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:39:12[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 02:39:50[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\AdminController.php: 23[MESSAGGE]Undefined index: r_u
+
+2019-11-09 04:15:11[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 42[MESSAGGE]Undefined index: role
+
+2019-11-09 04:20:30[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 58[MESSAGGE]Use of undefined constant _PASS_ - assumed '_PASS_'
+
+2019-11-09 04:40:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 04:40:41[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 04:41:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 44[MESSAGGE]Undefined index: ru
+
+2019-11-09 04:41:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\view\navbar.php: 103[MESSAGGE]Undefined index: p_n
+
+2019-11-09 04:41:17[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\view\navbar.php: 104[MESSAGGE]Undefined index: u_i
+
+2019-11-09 04:42:25[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 44[MESSAGGE]Undefined index: ru
+
+2019-11-09 04:42:25[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\view\navbar.php: 103[MESSAGGE]Undefined index: p_n
+
+2019-11-09 04:42:25[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\view\navbar.php: 104[MESSAGGE]Undefined index: u_i
+
+2019-11-09 04:42:45[UTC -5] [ip] ::1 [location] Menu|add [text] SIN PERMISOS SUFICIENTES
+2019-11-09 04:42:57[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 04:42:57[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 11:21:15[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 11:21:15[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+
+2019-11-09 11:30:12[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 60[MESSAGGE]Undefined index: role
+
+2019-11-09 16:34:51[UTC -5] [ip] ::1 [location] Menu|role [text] Call to undefined method Menu::searchRelation()
+2019-11-09 16:43:04[UTC -5] [ip] ::1 [location] MenuController|role [text] Call to undefined method Menu::searchRelation()
+2019-11-09 16:52:47[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 186[MESSAGGE]Undefined index: user_nickname
+
+2019-11-09 16:52:47[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 186[MESSAGGE]Use of undefined constant _PASS_ - assumed '_PASS_'
+
+2019-11-09 16:52:47[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menu.php: 39[MESSAGGE]Trying to get property of non-object
+
+2019-11-09 16:52:53[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 186[MESSAGGE]Undefined index: user_nickname
+
+2019-11-09 16:52:53[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\MenuController.php: 186[MESSAGGE]Use of undefined constant _PASS_ - assumed '_PASS_'
+
+2019-11-09 16:52:53[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Menu.php: 39[MESSAGGE]Trying to get property of non-object
+
+2019-11-09 16:53:38[UTC -5] [ip] ::1 [location] Menu|list_all [text] SIN PERMISOS SUFICIENTES
+2019-11-09 16:54:03[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\api.php: 143[MESSAGGE]Undefined variable: errores
+
+2019-11-09 16:54:40[UTC -5] [ip] ::1 [location] Menu|list_all [text] SIN PERMISOS SUFICIENTES
+2019-11-09 16:55:28[UTC -5] [ip] ::1 [location] Menu|list_all [text] SIN PERMISOS SUFICIENTES
+2019-11-09 16:55:58[UTC -5] [ip] ::1 [location] Menu|list_all [text] SIN PERMISOS SUFICIENTES
+2019-11-09 16:56:07[UTC -5] [ip] ::1 [location] Menu|list_all [text] SIN PERMISOS SUFICIENTES
+2019-11-09 18:28:55[UTC -5] [ip] ::1 [location] Menu|list_all [text] ACCESO A METODO NO EXISTENTE
+2019-11-09 18:29:09[UTC -5] [ip] ::1 [location] Menu|list_all [text] ACCESO A METODO NO EXISTENTE
+2019-11-09 18:32:56[UTC -5] [ip] ::1 [location] Menu|list_all [text] ACCESO A METODO NO EXISTENTE
+2019-11-09 19:44:48[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\controllers\LoginController.php: 91[MESSAGGE]Undefined property: stdClass::$role_name
+
+2019-11-09 19:44:48[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\eggPHP\app\models\Crypt.php: 44[MESSAGGE]Use of undefined constant _FULL_KEY - assumed '_FULL_KEY'
+

@@ -1,0 +1,2 @@
+2019-08-26 20:01:00[UTC -5] [ip] ::1 [location] Excepcion No Manejada [text] [LEVEL]: 8 IN C:\xampp\htdocs\auth\app\models\Token.php: 29[MESSAGGE]Undefined offset: 2
+
