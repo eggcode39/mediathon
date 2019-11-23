@@ -41,6 +41,22 @@
                             <textarea class="form-control" id="noticia_bajada" cols="30" rows="5"><?= $noticia->noticia_bajada;?></textarea>
                         </div>
                         <div class="form-group">
+                            <label class="col-form-label">Link</label>
+                            <textarea class="form-control" id="noticia_link" cols="30" rows="5"><?= $noticia->noticia_link;?></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label">¿Es Fake?</label>
+                            <select class="form-control" id="noticia_esfake" >
+                                <option value="">Seleccionar un estado...</option>
+                                <option <?php echo ($noticia->noticia_esfake == 1) ? 'selected' : '';?> value="1">SI</option>
+                                <option <?php echo ($noticia->noticia_esfake == 0) ? 'selected' : '';?> value="0">NO</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label">Motivo</label>
+                            <textarea class="form-control" id="noticia_motivo" cols="30" rows="5"><?= $noticia->noticia_motivo;?></textarea>
+                        </div>
+                        <div class="form-group">
                             <label class="col-form-label">Estado</label>
                             <select class="form-control" id="noticia_estado" >
                                 <option value="">Seleccionar un estado...</option>

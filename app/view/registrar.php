@@ -43,7 +43,8 @@
                 <div class="col-lg-12">
                     <div class="p-5">
                         <div class="text-center">
-                            <h1 class="h4 text-gray-900 mb-4">¡Create una Cuenta!</h1>
+                            <h1 class="h2 text-gray-900 mb-4">¡Create una Cuenta!</h1>
+                            <h1 class="h4 text-gray-900 mb-4">Accede a una plataforma simple y eficaz para enseñanza sobre Fake News</h1>
                         </div>
                         <div class="user">
                             <div class="form-group row">

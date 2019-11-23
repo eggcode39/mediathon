@@ -17,7 +17,7 @@ define('_PASSWORD_DB_', '');
 //Definicion de clave de desencriptacion
 define('_FULL_KEY_','ñlasopweir');
 //Titulo
-define('_TITLE_', 'DontFakeTurbo3000');
+define('_TITLE_', 'Checa Fake');
 //Rutas de Archivos
 define('_STYLES_ALL_', 'styles/');
 define('_STYLES_ADMIN_', 'styles/admin/');

@@ -5,6 +5,9 @@ function agregar_noticia() {
     var noticia_bajada = $('#noticia_bajada').val();
     var noticia_estado = $('#noticia_estado').val();
     var noticia_mostrar = $('#noticia_mostrar').val();
+    var noticia_link = $('#noticia_link').val();
+    var noticia_esfake = $('#noticia_esfake').val();
+    var noticia_motivo = $('#noticia_motivo').val();
 
     if(noticia_titulo == ""){
         alertify.error('El campo Titulo está vacío');
@@ -51,6 +54,9 @@ function agregar_noticia() {
             "&noticia_contexto=" + noticia_contexto +
             "&noticia_bajada=" + noticia_bajada +
             "&noticia_estado=" + noticia_estado +
+            "&noticia_link=" + noticia_link +
+            "&noticia_esfake=" + noticia_esfake +
+            "&noticia_motivo=" + noticia_motivo +
             "&noticia_mostrar=" + noticia_mostrar;
         $.ajax({
             type:"POST",
@@ -76,6 +82,9 @@ function editar_noticia() {
     var noticia_bajada = $('#noticia_bajada').val();
     var noticia_estado = $('#noticia_estado').val();
     var noticia_mostrar = $('#noticia_mostrar').val();
+    var noticia_link = $('#noticia_link').val();
+    var noticia_esfake = $('#noticia_esfake').val();
+    var noticia_motivo = $('#noticia_motivo').val();
 
     if(noticia_titulo == ""){
         alertify.error('El campo Titulo está vacío');
@@ -123,6 +132,9 @@ function editar_noticia() {
             "&noticia_contexto=" + noticia_contexto +
             "&noticia_bajada=" + noticia_bajada +
             "&noticia_estado=" + noticia_estado +
+            "&noticia_link=" + noticia_link +
+            "&noticia_esfake=" + noticia_esfake +
+            "&noticia_motivo=" + noticia_motivo +
             "&noticia_mostrar=" + noticia_mostrar;
         $.ajax({
             type:"POST",

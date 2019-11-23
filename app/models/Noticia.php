@@ -21,7 +21,10 @@ class Noticia{
                     noticia_contexto = ?,
                     noticia_bajada = ?,
                     noticia_estado = ?,
-                    noticia_mostrar = ?
+                    noticia_mostrar = ?,
+                    noticia_link = ?,
+                    noticia_esfake = ?,
+                    noticia_motivo = ?
                     where id_noticia = ?";
                 $stm = $this->pdo->prepare($sql);
                 $stm->execute([
@@ -30,18 +33,24 @@ class Noticia{
                     $model->noticia_bajada,
                     $model->noticia_estado,
                     $model->noticia_mostrar,
+                    $model->noticia_link,
+                    $model->noticia_esfake,
+                    $model->noticia_motivo,
                     $model->id_noticia
                 ]);
                 $result = 1;
             } else {
-                $sql = "insert into noticias (noticia_titulo, noticia_contexto, noticia_bajada, noticia_estado, noticia_mostrar) values (?,?,?,?,?)";
+                $sql = "insert into noticias (noticia_titulo, noticia_contexto, noticia_bajada, noticia_link, noticia_esfake, noticia_motivo, noticia_estado, noticia_mostrar) values (?,?,?,?,?,?,?,?)";
                 $stm = $this->pdo->prepare($sql);
                 $stm->execute([
                     $model->noticia_titulo,
                     $model->noticia_contexto,
                     $model->noticia_bajada,
                     $model->noticia_estado,
-                    $model->noticia_mostrar
+                    $model->noticia_mostrar,
+                    $model->noticia_link,
+                    $model->noticia_esfake,
+                    $model->noticia_motivo
                 ]);
                 $result = 1;
             }

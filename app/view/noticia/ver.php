@@ -30,24 +30,36 @@
                             <tr>
                                 <th>ID</th>
                                 <th>Titulo</th>
-                                <th>Contexto</th>
-                                <th>Bajada</th>
                                 <th>Estado</th>
                                 <th>Mostrar</th>
+                                <th>Link</th>
+                                <th>¿Es Fake?</th>
                                 <th>Acción</th>
                             </tr>
                             </thead>
                             <tbody>
                             <?php
                             foreach ($noticias as $m){
+                                $estado= "<a class=\"btn btn-sm btn-outline-danger btne\">DESHABILITADO</a>";
+                                $mostrar = "<a class=\"btn btn-sm btn-outline-danger btne\">NO</a>";
+                                $fake = "<a class=\"btn btn-sm btn-outline-danger btne\">NO</a>";
+                                if($m->noticia_estado == 1){
+                                    $estado = "<a class=\"btn btn-sm btn-outline-success btne\">HABILITADO</a>";
+                                }
+                                if($m->noticia_mostrar == 1){
+                                    $mostrar = "<a class=\"btn btn-sm btn-outline-success btne\">SI</a>";
+                                }
+                                if($m->noticia_esfake == 1){
+                                    $fake = "<a class=\"btn btn-sm btn-outline-success btne\">SI</a>";
+                                }
                                 ?>
                                 <tr>
                                     <td><?php echo $m->id_noticia;?></td>
                                     <td><?php echo $m->noticia_titulo;?></td>
-                                    <td><?php echo $m->noticia_contexto;?></td>
-                                    <td><?php echo $m->noticia_bajada;?></td>
-                                    <td><?php echo $m->noticia_estado;?></td>
-                                    <td><?php echo $m->noticia_mostrar?></td>
+                                    <td><?php echo $estado;?></td>
+                                    <td><?php echo $mostrar;?></td>
+                                    <td><a href="<?php echo $m->noticia_link;?>" target="_blank">Ver Noticia</a></td>
+                                    <td><?php echo $fake;?></td>
                                     <td><a type="button" class="btn btn-xs btn-warning btne" href="<?php echo _SERVER_ . 'noticia/editar/' . $m->id_noticia;?>" >Editar</a></td>
                                 </tr>
                                 <?php

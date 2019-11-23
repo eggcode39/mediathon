@@ -11,7 +11,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
           <i class="fa fa-newspaper-o"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">DNTFK T300 <sup><?= _VERSION_;?></sup></div>
+        <div class="sidebar-brand-text mx-3"><?= _TITLE_;?> <sup><?= _VERSION_;?></sup></div>
       </a>
       <!-- Divider -->
       <hr class="sidebar-divider my-0">

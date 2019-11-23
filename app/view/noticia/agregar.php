@@ -33,11 +33,27 @@
                         </div>
                         <div class="form-group">
                             <label class="col-form-label">Contexto</label>
-                            <textarea class="form-control" id="noticia_contexto" cols="30" rows="5"></textarea>
+                            <textarea class="form-control" id="noticia_contexto" cols="30" rows="5">aaa</textarea>
                         </div>
                         <div class="form-group">
                             <label class="col-form-label">Bajada</label>
-                            <textarea class="form-control" id="noticia_bajada" cols="30" rows="5"></textarea>
+                            <textarea class="form-control" id="noticia_bajada" cols="30" rows="5">aaa</textarea>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label">Link</label>
+                            <textarea class="form-control" id="noticia_link" cols="30" rows="5"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label">¿Es Fake?</label>
+                            <select class="form-control" id="noticia_esfake" >
+                                <option value="">Seleccionar un estado...</option>
+                                <option value="1">SI</option>
+                                <option value="0">NO</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label">Motivo</label>
+                            <textarea class="form-control" id="noticia_motivo" cols="30" rows="5"></textarea>
                         </div>
                         <div class="form-group">
                             <label class="col-form-label">Estado</label>
