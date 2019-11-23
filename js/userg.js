@@ -143,8 +143,8 @@ function save() {
                 $("#btn-userg-addu").attr("disabled", true);
             },
             success:function (r) {
-                $("#btn-iniciar-sesion").attr("disabled", false);
-                $("#btn-iniciar-sesion").html("Agregar Usuario");
+                $("#btn-userg-addu").attr("disabled", false);
+                $("#btn-userg-addu").html("Agregar Usuario");
                 switch (r.result.code) {
                     case 1:
                         alertify.success("¡Guardado!");
