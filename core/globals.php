@@ -28,3 +28,5 @@ define('_VIEW_PATH_', 'app/view/');
 //Version
 define('_VERSION_','1.0');
 define('_MYSITE_','https://bufeotec.com');
+
+define('_ESTILOS_', 'styles/inicio/');

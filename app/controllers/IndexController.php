@@ -18,6 +18,6 @@ class IndexController{
     }
 
     public function index(){
-        echo 'Pronto habrá algo aquí, pero ahorita no joven :/';
+        require _VIEW_PATH_ . 'index.php';
     }
 }
